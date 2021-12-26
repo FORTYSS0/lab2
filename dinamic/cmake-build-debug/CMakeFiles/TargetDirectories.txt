@@ -1,0 +1,3 @@
+/media/FORTYSS/Data/МГТУ/Реверс/Лабы/2/lab2/dinamic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/FORTYSS/Data/МГТУ/Реверс/Лабы/2/lab2/dinamic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/FORTYSS/Data/МГТУ/Реверс/Лабы/2/lab2/dinamic/cmake-build-debug/CMakeFiles/Program.dir

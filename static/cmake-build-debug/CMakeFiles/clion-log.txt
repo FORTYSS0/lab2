@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /media/FORTYSS/Data/МГТУ/Реверс/Лабы/2/lab2 Select CMakeLists.txt

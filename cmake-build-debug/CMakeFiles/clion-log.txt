@@ -1,4 +1,0 @@
-/home/FORTYSS/Programs/clion-2020.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/FORTYSS/Data/МГТУ/Реверс/Лабы/1/three_error_programm
--- Configuring done
--- Generating done
--- Build files have been written to: /media/FORTYSS/Data/МГТУ/Реверс/Лабы/1/three_error_programm/cmake-build-debug
